@@ -32,5 +32,7 @@ Some theorems on sets countability.
 
 Useful definitions from the book:
 >_Outcome: A result of a random experiment._
+
 >_Sample Space: The set of all possible outcomes._
+
 >_Event: A subset of the sample space._
