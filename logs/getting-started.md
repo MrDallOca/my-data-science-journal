@@ -34,3 +34,24 @@ Useful definitions from the book:
 >_Outcome: A result of a random experiment._  
 >_Sample Space: The set of all possible outcomes._  
 >_Event: A subset of the sample space._
+
+## 2019-12-22
+
+Continuing book reading.
+
+Studied:
+
+>[1.3 Random Experiments and Probabilities](https://www.probabilitycourse.com/chapter1/1_3_1_random_experiments.php)  
+>[1.4 Conditional Probability](https://www.probabilitycourse.com/chapter1/1_4_0_conditional_probability.php)  
+
+I'm basically done with the basic concepts. I might return to the other chapters of this book for some reference. Also, next semestre at my college I'll be attending a probability course, that should fill in the gaps. By now I'll focus on the chapters about inference:
+* [Statistical Inference I: Classical Methods](https://www.probabilitycourse.com/chapter8/8_1_0_intro.php)
+* [Statistical Inference II: Bayesian Inference](https://www.probabilitycourse.com/chapter9/9_1_0_bayesian_inference.php)
+
+>_Statistical inference is a collection of methods that deal with drawing conclusions from data that are prone to random variation._
+
+Actually, I'm missing some background on random variables as I noted reading through. So, back to chapter 3: [Discrete Random Variables](https://www.probabilitycourse.com/chapter3/3_1_1_random_variables.php). 
+
+I've read through utill [Probability Mass Function (PMF)](https://www.probabilitycourse.com/chapter3/3_1_3_pmf.php).
+
+I'm going to start [Independent Random Variables](https://www.probabilitycourse.com/chapter3/3_1_4_independent_random_var.php) next day. That's all by now.
