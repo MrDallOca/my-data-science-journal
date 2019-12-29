@@ -64,4 +64,10 @@ I've Covered _3.1.4 Independent Random Variables_ and _3.1.5 Special Distributio
 
 Imma start _3.2 More about Discrete Random Variables_.
 
+Finished it.
 
+I'm starting now chapter 4: _Continuous and Mixed Random Variables_.
+
+Read the chapter's introduction and _4.1.0 Continuous Random Variables and their Distributions_.
+
+That's it for today.
