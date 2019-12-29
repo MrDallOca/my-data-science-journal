@@ -60,9 +60,7 @@ I'm going to start [Independent Random Variables](https://www.probabilitycourse.
 
 I'm wrapping up the section _3.1 Random Variables - Basic Concepts_.
 
-I've Covered _3.1.4 Independent Random Variables_ and _3.1.5 Special Distributions_. I haven't dedicated much time to the last aforementioned section as I'll just look the specific distribution when needed. Also, I've reviewed Newton's Binomial Series and dedicated some time proving 
-
-<img src="https://latex.codecogs.com/png.latex?%5Cbinom%7Bn%7D%7Bk%7D%20%3D%20%5Cbinom%7Bn%20-%201%7D%7Bk%20-%201%7D%20&plus;%20%5Cbinom%7Bn%20-%201%7D%7Bk%7D" align="center" border="0" alt="\binom{n}{k} = \binom{n - 1}{k - 1} + \binom{n - 1}{k}" width="217" height="47" />.
+I've Covered _3.1.4 Independent Random Variables_ and _3.1.5 Special Distributions_. I haven't dedicated much time to the last aforementioned section as I'll just look the specific distribution when needed. Also, I've reviewed Newton's Binomial Series and dedicated some time proving <img src="https://latex.codecogs.com/png.latex?%5Cbinom%7Bn%7D%7Bk%7D%20%3D%20%5Cbinom%7Bn%20-%201%7D%7Bk%20-%201%7D%20&plus;%20%5Cbinom%7Bn%20-%201%7D%7Bk%7D" align="center" border="0" alt="\binom{n}{k} = \binom{n - 1}{k - 1} + \binom{n - 1}{k}"/>.
 
 Imma start _3.2 More about Discrete Random Variables_.
 
