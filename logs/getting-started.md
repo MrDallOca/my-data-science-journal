@@ -62,7 +62,7 @@ I'm wrapping up the section _3.1 Random Variables - Basic Concepts_.
 
 I've Covered _3.1.4 Independent Random Variables_ and _3.1.5 Special Distributions_. I haven't dedicated much time to the last aforementioned section as I'll just look the specific distribution when needed. Also, I've reviewed Newton's Binomial Series and dedicated some time proving 
 
-![blah blah equation](http://www.sciweavers.org/tex2img.php?eq=%5Cbinom%7Bn%7D%7Bk%7D%20%3D%20%5Cbinom%7Bn%20-%201%7D%7Bk%20-%201%7D%20%2B%20%5Cbinom%7Bn%20-%201%7D%7Bk%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
+![blah blah equation](http%3A%2F%2Fwww.sciweavers.org%2Ftex2img.php%3Feq%3D%255Cbinom%257Bn%257D%257Bk%257D%2520%253D%2520%255Cbinom%257Bn%2520-%25201%257D%257Bk%2520-%25201%257D%2520%252B%2520%255Cbinom%257Bn%2520-%25201%257D%257Bk%257D%26bc%3DWhite%26fc%3DBlack%26im%3Djpg%26fs%3D12%26ff%3Darev%26edit%3D0).
 
 Imma start _3.2 More about Discrete Random Variables_.
 
