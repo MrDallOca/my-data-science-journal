@@ -71,3 +71,12 @@ I'm starting now chapter 4: _Continuous and Mixed Random Variables_.
 Read the chapter's introduction and _4.1.0 Continuous Random Variables and their Distributions_.
 
 That's it for today.
+
+
+## 2019-12-31
+
+I've just read section _4.1_ and some bits from _4.2 Special Distributions_, which the later I'll use more as a reference when needed.
+
+I've spent some time reading through bits of the book and researching some related concepts.
+
+Planning to keep reading chapter 5, namely [_5.1.2 Joint Cumulative Distributive Function (CDF_](https://www.probabilitycourse.com/chapter5/5_1_2_joint_cdf.php).
