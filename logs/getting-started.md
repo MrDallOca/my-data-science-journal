@@ -79,4 +79,11 @@ I've just read section _4.1_ and some bits from _4.2 Special Distributions_, whi
 
 I've spent some time reading through bits of the book and researching some related concepts.
 
-Planning to keep reading chapter 5, namely [_5.1.2 Joint Cumulative Distributive Function (CDF_](https://www.probabilitycourse.com/chapter5/5_1_2_joint_cdf.php).
+Planning to keep reading chapter 5, namely [_5.1.2 Joint Cumulative Distributive Function (CDF)_](https://www.probabilitycourse.com/chapter5/5_1_2_joint_cdf.php).
+
+## 2020-01-05
+
+Studied 5.1.2 and 5.1.2.
+
+I'll finish this chapter and pick up a new book I found on stats.
+
