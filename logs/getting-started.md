@@ -99,4 +99,4 @@ I've started reading _An Introduction to the Science of Statistics: From Theory 
 
 Got something to show today:
 
-![./images/aids_pie_chart.png](images/aids_pie_chart.png)
+![images/aids_pie_chart.png](./images/aids_pie_chart.png)
