@@ -83,7 +83,20 @@ Planning to keep reading chapter 5, namely [_5.1.2 Joint Cumulative Distributive
 
 ## 2020-01-05
 
-Studied 5.1.2 and 5.1.2.
+Studied 5.1.2 and 5.1.3.
 
 I'll finish this chapter and pick up a new book I found on stats.
 
+## 2020-01-08
+
+Finished 5.1 and jumping right into 5.3.
+
+## 2020-01-12
+
+I'm completing my log and searching for some adicional material to study by, preferably practical.
+
+I've started reading _An Introduction to the Science of Statistics: From Theory to Implementation_.
+
+Got something to show today:
+
+![aids_pie_chart.png](aids_pie_chart.png)
